@@ -4,7 +4,7 @@ import HomeCard from '../components/HomeCard'
 import JobListings from '../components/JobListings'
 import ViewAllJobs from '../components/ViewAllJobs'
 
-const Homepage = () => {
+const HomePage = () => {
   return (
     <div>
         <Hero/>
@@ -16,4 +16,4 @@ const Homepage = () => {
   )
 }
 
-export default Homepage
+export default HomePage
